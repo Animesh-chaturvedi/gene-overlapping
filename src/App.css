@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+.App-body{
+  padding: 2rem 3rem;
+}
+.App-body h1{
+  text-align: center  ;
+}
+
+.App-checkbox-cont{
+  text-align: center;
+  font-size: 18px;
+  line-height: 24px;
+}
+.App-checkbox-heading{
+  opacity: 0.8;
+  font-weight: 500;
+  /* text-decoration: underline; */
+  margin-bottom: 8px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
