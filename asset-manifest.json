@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.250b84c7.css",
-    "main.js": "./static/js/main.f05b25cd.js",
+    "main.js": "./static/js/main.4b410db7.js",
     "static/js/453.7831c349.chunk.js": "./static/js/453.7831c349.chunk.js",
     "static/media/Raldh1.png": "./static/media/Raldh1.0af9646415e49704ec42.png",
     "static/media/Vax.png": "./static/media/Vax.d0b059c709761969dd48.png",
@@ -18,11 +18,11 @@
     "static/media/Tbx5.png": "./static/media/Tbx5.e88e634e303138c3aa8f.png",
     "index.html": "./index.html",
     "main.250b84c7.css.map": "./static/css/main.250b84c7.css.map",
-    "main.f05b25cd.js.map": "./static/js/main.f05b25cd.js.map",
+    "main.4b410db7.js.map": "./static/js/main.4b410db7.js.map",
     "453.7831c349.chunk.js.map": "./static/js/453.7831c349.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.250b84c7.css",
-    "static/js/main.f05b25cd.js"
+    "static/js/main.4b410db7.js"
   ]
 }
